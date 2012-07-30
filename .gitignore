@@ -1,0 +1,4 @@
+*.pyc
+.idea/*
+example_django_facebook_realtime/local_settings.py
+db/*
